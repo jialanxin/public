@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 迷失的星云</title>
+    <link>localhost:2018/categories/</link>
+    <description>Recent content in Categories on 迷失的星云</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	<atom:link href="localhost:2018/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>实验</title>
+      <link>localhost:2018/categories/%E5%AE%9E%E9%AA%8C/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:2018/categories/%E5%AE%9E%E9%AA%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日常随记</title>
+      <link>localhost:2018/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:2018/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>爬虫</title>
+      <link>localhost:2018/categories/%E7%88%AC%E8%99%AB/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:2018/categories/%E7%88%AC%E8%99%AB/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
