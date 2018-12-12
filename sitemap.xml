@@ -53,13 +53,13 @@
   </url>
   
   <url>
-    <loc>https://jialanxin.github.io/public/categories/%E5%AE%9E%E9%AA%8C/</loc>
+    <loc>https://jialanxin.github.io/public/tags/%E5%AE%9E%E9%AA%8C/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jialanxin.github.io/public/tags/%E5%AE%9E%E9%AA%8C/</loc>
+    <loc>https://jialanxin.github.io/public/categories/%E5%AE%9E%E9%AA%8C/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -69,25 +69,25 @@
   </url>
   
   <url>
-    <loc>https://jialanxin.github.io/public/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jialanxin.github.io/public/tags/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jialanxin.github.io/public/categories/%E7%88%AC%E8%99%AB/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <loc>https://jialanxin.github.io/public/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jialanxin.github.io/public/tags/%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jialanxin.github.io/public/categories/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2018-12-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
