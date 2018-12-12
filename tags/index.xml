@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 迷失的星云</title>
-    <link>localhost:2018/tags/</link>
+    <link>https://jialanxin.github.io/public/tags/</link>
     <description>Recent content in Tags on 迷失的星云</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:2018/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jialanxin.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pdms</title>
-      <link>localhost:2018/tags/pdms/</link>
+      <link>https://jialanxin.github.io/public/tags/pdms/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>localhost:2018/tags/pdms/</guid>
+      <guid>https://jialanxin.github.io/public/tags/pdms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>localhost:2018/tags/python/</link>
+      <link>https://jialanxin.github.io/public/tags/python/</link>
       <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>localhost:2018/tags/python/</guid>
+      <guid>https://jialanxin.github.io/public/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requests</title>
-      <link>localhost:2018/tags/requests/</link>
+      <link>https://jialanxin.github.io/public/tags/requests/</link>
       <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>localhost:2018/tags/requests/</guid>
+      <guid>https://jialanxin.github.io/public/tags/requests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>实验</title>
-      <link>localhost:2018/tags/%E5%AE%9E%E9%AA%8C/</link>
+      <link>https://jialanxin.github.io/public/tags/%E5%AE%9E%E9%AA%8C/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>localhost:2018/tags/%E5%AE%9E%E9%AA%8C/</guid>
+      <guid>https://jialanxin.github.io/public/tags/%E5%AE%9E%E9%AA%8C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>日常随记</title>
-      <link>localhost:2018/tags/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</link>
+      <link>https://jialanxin.github.io/public/tags/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>localhost:2018/tags/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</guid>
+      <guid>https://jialanxin.github.io/public/tags/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>爬虫</title>
-      <link>localhost:2018/tags/%E7%88%AC%E8%99%AB/</link>
+      <link>https://jialanxin.github.io/public/tags/%E7%88%AC%E8%99%AB/</link>
       <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>localhost:2018/tags/%E7%88%AC%E8%99%AB/</guid>
+      <guid>https://jialanxin.github.io/public/tags/%E7%88%AC%E8%99%AB/</guid>
       <description></description>
     </item>
     

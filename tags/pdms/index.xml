@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pdms on 迷失的星云</title>
-    <link>localhost:2018/tags/pdms/</link>
+    <link>https://jialanxin.github.io/public/tags/pdms/</link>
     <description>Recent content in Pdms on 迷失的星云</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost:2018/tags/pdms/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jialanxin.github.io/public/tags/pdms/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>如何制作PDMS</title>
-      <link>localhost:2018/post/%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9Cpdms/</link>
+      <link>https://jialanxin.github.io/public/post/%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9Cpdms/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>localhost:2018/post/%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9Cpdms/</guid>
+      <guid>https://jialanxin.github.io/public/post/%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9Cpdms/</guid>
       <description>今天试着做了一下PDMS，步骤如下： 将Base与Agent按质量比7:1(10:1)混合搅拌10min。 将混合物倒入干净的培养皿中 将培养皿平</description>
     </item>
     
