@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>实验 on 迷失的星云</title>
-    <link>https://jialanxin.github.io/public/tags/%E5%AE%9E%E9%AA%8C/</link>
-    <description>Recent content in 实验 on 迷失的星云</description>
+    <title>Dry Transfer on 迷失的星云</title>
+    <link>https://jialanxin.github.io/public/tags/dry-transfer/</link>
+    <description>Recent content in Dry Transfer on 迷失的星云</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 12 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jialanxin.github.io/public/tags/%E5%AE%9E%E9%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jialanxin.github.io/public/tags/dry-transfer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://jialanxin.github.io/public/post/procedure-of-dry-transfer/</guid>
       <description>Clean the beaker in ultrasound with acetone then IPA then DI water Note: make sure no residual of acetone in the beaker because acetone may react with chloroform and produce explosive compounds. Dissolve polycarbonate in chloroform, mass ratio 6% (6%~10%), using ultrasound to accelerate the dissolution Note: must wear a mask when using chloroform because chloroform can generate $$\mathrm{COCl_2}$$ (10 times toxicity of $$\mathrm{Cl_2}$$) under light Clean 3 glass slides</description>
-    </item>
-    
-    <item>
-      <title>如何制作PDMS</title>
-      <link>https://jialanxin.github.io/public/post/%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9Cpdms/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jialanxin.github.io/public/post/%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9Cpdms/</guid>
-      <description>今天试着做了一下PDMS，步骤如下： 将Base与Agent按质量比7:1(10:1)混合搅拌10min。 将混合物倒入干净的培养皿中 将培养皿平</description>
     </item>
     
   </channel>
