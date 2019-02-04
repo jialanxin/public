@@ -6,10 +6,19 @@
     <description>Recent content on 迷失的星云</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jialanxin.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>短日记</title>
+      <link>https://jialanxin.github.io/public/post/%E7%9F%AD%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jialanxin.github.io/public/post/%E7%9F%AD%E6%97%A5%E8%AE%B0/</guid>
+      <description>2019/02/04 现在春晚连假唱都不掩饰一下了吗？ 2019/01/03 观时事有感：一个社会的有序运转是自持的负熵系统，多种综合势力会自发的维持宏观上的平衡，一个平庸的lead</description>
+    </item>
     
     <item>
       <title>procedure of dry transfer</title>
@@ -18,15 +27,6 @@
       
       <guid>https://jialanxin.github.io/public/post/procedure-of-dry-transfer/</guid>
       <description>Step1: Clean the beaker in ultrasound with acetone then IPA then DI water. Note: make sure no residual of acetone in the beaker because acetone may react with chloroform and produce explosive compounds. Step2: Dissolve polycarbonate in chloroform, mass ratio 6% (6%~10%), using ultrasound to accelerate the dissolution. Note: must wear a mask when using chloroform because chloroform can generate $\mathrm{COCl_2}$ (10 times toxicity of $\mathrm{Cl_2}$) under light Step3: Clean</description>
-    </item>
-    
-    <item>
-      <title>短日记</title>
-      <link>https://jialanxin.github.io/public/post/%E7%9F%AD%E6%97%A5%E8%AE%B0/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jialanxin.github.io/public/post/%E7%9F%AD%E6%97%A5%E8%AE%B0/</guid>
-      <description>2019/02/04 现在春晚连假唱都不掩饰一下了吗？ 2019/01/03 观时事有感：一个社会的有序运转是自持的负熵系统，多种综合势力会自发的维持宏观上的平衡，一个平庸的lead</description>
     </item>
     
     <item>
