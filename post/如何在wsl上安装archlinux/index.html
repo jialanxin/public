@@ -11,10 +11,10 @@
     <meta property="og:title" content="如何在WSL上安装Archlinux - 迷失的星云">
     <meta property="og:type" content="article">
         
-    <meta property="article:published_time" content="2019-05-01T00:00:00&#43;08:00">
+    <meta property="article:published_time" content="2019-05-02T00:00:00&#43;08:00">
         
         
-    <meta property="article:modified_time" content="2019-05-01T00:00:00&#43;08:00">
+    <meta property="article:modified_time" content="2019-05-02T00:00:00&#43;08:00">
         
     <meta name="Keywords" content="物理,二维材料,超快电子衍射">
     <meta name="description" content="如何在WSL上安装Archlinux">
@@ -73,7 +73,7 @@
                             <h1 class="post-title">如何在WSL上安装Archlinux</h1>
                         </header>
                         <date class="post-meta meta-date">
-                            2019年5月1日
+                            2019年5月2日
                         </date>
                         
                         <div class="post-meta meta-category">
@@ -97,9 +97,11 @@
 
 <p><strong>Step6</strong> 忽略fakeroot，安装base-devel。</p>
 
-<p><strong>Step7</strong> 从AUR包构建fakeroot-tcp。构建选项-sirc（不保留安装时依赖和中间文件）。可能中间需要chmod给权限。</p>
+<p><strong>Step7</strong> 从AUR安装yay。构建选项-sirc（不保留安装时依赖和中间文件）。可能中间需要chmod给权限。</p>
 
-<p><strong>Step8</strong> pacman -Qtdq扫描孤包，pacman -Rs  package删除</p>
+<p><strong>Step8</strong> 使用yay从AUR包构建fakeroot-tcp。</p>
+
+<p><strong>Step9</strong> pacman -Qtdq扫描孤包，pacman -Rs  package删除。或者yay -Yc同样</p>
 
                         </div>
 
