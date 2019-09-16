@@ -6,10 +6,19 @@
     <description>Recent content in Tags on 迷失的星云</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jialanxin.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>日常随记</title>
+      <link>https://jialanxin.github.io/public/tags/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jialanxin.github.io/public/tags/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Archlinux</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jialanxin.github.io/public/tags/archlinux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dry Transfer</title>
-      <link>https://jialanxin.github.io/public/tags/dry-transfer/</link>
-      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jialanxin.github.io/public/tags/dry-transfer/</guid>
       <description></description>
     </item>
     
@@ -39,38 +39,20 @@
     </item>
     
     <item>
-      <title>Pdms</title>
-      <link>https://jialanxin.github.io/public/tags/pdms/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jialanxin.github.io/public/tags/pdms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://jialanxin.github.io/public/tags/python/</link>
-      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jialanxin.github.io/public/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Requests</title>
-      <link>https://jialanxin.github.io/public/tags/requests/</link>
-      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jialanxin.github.io/public/tags/requests/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wsl</title>
+      <title>WSL</title>
       <link>https://jialanxin.github.io/public/tags/wsl/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jialanxin.github.io/public/tags/wsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dry transfer</title>
+      <link>https://jialanxin.github.io/public/tags/dry-transfer/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jialanxin.github.io/public/tags/dry-transfer/</guid>
       <description></description>
     </item>
     
@@ -84,11 +66,29 @@
     </item>
     
     <item>
-      <title>日常随记</title>
-      <link>https://jialanxin.github.io/public/tags/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <title>PDMS</title>
+      <link>https://jialanxin.github.io/public/tags/pdms/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jialanxin.github.io/public/tags/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/</guid>
+      <guid>https://jialanxin.github.io/public/tags/pdms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://jialanxin.github.io/public/tags/python/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jialanxin.github.io/public/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>requests</title>
+      <link>https://jialanxin.github.io/public/tags/requests/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jialanxin.github.io/public/tags/requests/</guid>
       <description></description>
     </item>
     
